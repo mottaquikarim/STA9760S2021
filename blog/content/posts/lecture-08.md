@@ -1,5 +1,5 @@
 ---
-title: "Course Intro and Working with the Command Line"
+title: "Introduction to Apache Spark II"
 date: 2020-01-30T23:43:38Z
 lecturedate: "MAR 23"
 lecture: "08"
