@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on STA9760S2021</title>
+    <link>https://mottaquikarim.github.io/posts/</link>
+    <description>Recent content in Posts on STA9760S2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Jan 2020 23:43:38 +0000</lastBuildDate><atom:link href="https://mottaquikarim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case Study: Building a Programmatic Ad Exchange</title>
+      <link>https://mottaquikarim.github.io/posts/case-study-building-a-programmatic-ad-exchange/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/case-study-building-a-programmatic-ad-exchange/</guid>
+      <description>In this class, we will examine how all the concepts covered in this course can be leveraged to build a programmatic ad exchange that streams in high volumes of data that must be processed and managed downstream.</description>
+    </item>
+    
+    <item>
+      <title>Case Study: Building a Very Large, Distributed Stats Aggregation Platform</title>
+      <link>https://mottaquikarim.github.io/posts/case-study-building-a-very-large-distributed-stats-aggregation-platform/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/case-study-building-a-very-large-distributed-stats-aggregation-platform/</guid>
+      <description>In this class, we will review the basic (but necessary) principles of traversing the command line and github, which will empower us to begin interacting with AWS infrastructure elements such as EC2 Reading: Python Basics Doc
+In this class, we will examine how all the concepts covered in this course can be leveraged to build a distributed platform for aggregrating and slicing large volumes of metrics using (mostly) batched processing.</description>
+    </item>
+    
+    <item>
+      <title>Course Intro and Working with the Command Line</title>
+      <link>https://mottaquikarim.github.io/posts/course-intro-and-working-with-the-command-line/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/course-intro-and-working-with-the-command-line/</guid>
+      <description>In this class, we will review the basic (but necessary) principles of traversing the command line and github, which will empower us to begin interacting with AWS infrastructure elements such as EC2</description>
+    </item>
+    
+    <item>
+      <title>Course Intro and Working with the Command Line</title>
+      <link>https://mottaquikarim.github.io/posts/course-intro-and-working-with-the-command-line/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/course-intro-and-working-with-the-command-line/</guid>
+      <description>In this lecture, we will review Apache Spark, set it up on EMR and then perform some exploratory data analysis with python, jupyter notebooks and S3 on AWS EMR.
+Project 2 Assignment (will require interacting with EMR to run Spark jobs)</description>
+    </item>
+    
+    <item>
+      <title>Effectively Writing Lambda Functions</title>
+      <link>https://mottaquikarim.github.io/posts/effectively-writing-lambda-functions/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/effectively-writing-lambda-functions/</guid>
+      <description>In this class, we will look at the Serverless Framework and how it can be used to effectively write, test and deploy AWS Lambda functions from EC2.</description>
+    </item>
+    
+    <item>
+      <title>Final</title>
+      <link>https://mottaquikarim.github.io/posts/final/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/final/</guid>
+      <description>Final exam, NON cumulative - only contains concepts covered after midterm</description>
+    </item>
+    
+    <item>
+      <title>Interacting with Elasticsearch and Kibana</title>
+      <link>https://mottaquikarim.github.io/posts/interacting-with-elasticsearch-and-kibana/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/interacting-with-elasticsearch-and-kibana/</guid>
+      <description>In this lecture, we will discuss how Elasticsearch / Apache Lucene can be used to ingest large quantities of data for analysis via free text search. We will dive into the various search capabilities of elasticsearch and provision an instance via AWS.
+Project 1 Assignment (will require loading up an Elasticsearch instance and performing analysis on it with Kibana)</description>
+    </item>
+    
+    <item>
+      <title>Intro to HDFS and Understanding MapReduce</title>
+      <link>https://mottaquikarim.github.io/posts/intro-to-hdfs-and-understanding-mapreduce/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/intro-to-hdfs-and-understanding-mapreduce/</guid>
+      <description>In this lecture, we will discuss the basic concepts of Hadoop Distributed File System (HDFS) and we will discuss Mapreduce, how it works and how we can provision an AWS EMR cluster for running Hadoop tasks, such as MapReduce jobs.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Apache Spark</title>
+      <link>https://mottaquikarim.github.io/posts/introduction-to-apache-spark/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/introduction-to-apache-spark/</guid>
+      <description>In this lecture we will discuss Apache Spark and how Spark jobs can also be run in AWS EMR.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to AWS Lambda</title>
+      <link>https://mottaquikarim.github.io/posts/introduction-to-aws-lambda/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/introduction-to-aws-lambda/</guid>
+      <description>In this lecture, we will discuss how AWS Lambda and the concept of “serverless functions” for managing data asynchronously. We will delve into how this concept can be used to create “infinitely” scalable processors for large data and in particular, streaming data.</description>
+    </item>
+    
+    <item>
+      <title>Midterm</title>
+      <link>https://mottaquikarim.github.io/posts/midterm/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/midterm/</guid>
+      <description>The purpose of this exam is to ensure everyone now has a solid and equal footing on python and working on AWS EC2 command line.</description>
+    </item>
+    
+    <item>
+      <title>PrestoDb and AWS Athena</title>
+      <link>https://mottaquikarim.github.io/posts/prestodb-and-aws-athena/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/prestodb-and-aws-athena/</guid>
+      <description>In this lecture, we will discuss how PrestoDb can query and process very large datasets in the cloud. We will also discuss Athena + Glue, which are AWS solutions for interacting with a managed PrestoDb instance.</description>
+    </item>
+    
+    <item>
+      <title>Python Scripting</title>
+      <link>https://mottaquikarim.github.io/posts/python-scripting/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/python-scripting/</guid>
+      <description>In this class, we discuss some more advanced python topics and how it relates to data processing. You must work through Python Essentials and it is recommended that you at least skim through Python Basics.</description>
+    </item>
+    
+    <item>
+      <title>Software Packaging and Management</title>
+      <link>https://mottaquikarim.github.io/posts/software-packaging-and-management/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/software-packaging-and-management/</guid>
+      <description>In this class, we will discuss virtualization, containerization and their application to AWS, EC2, and in general, infrastructure provisioning. The main topic for this lecture will be docker and interacting with docker.</description>
+    </item>
+    
+    <item>
+      <title>Streaming Data Processing</title>
+      <link>https://mottaquikarim.github.io/posts/streaming-data-processing/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/posts/streaming-data-processing/</guid>
+      <description>In this lecture, we discuss AWS Lambda and AWS Kinesis Firehose Delivery Streams can be leveraged to consume and analyze streaming real time data.
+Project 3 Assignment (will involve streaming data processing with AWS Kinesis and AWS Lambda)</description>
+    </item>
+    
+  </channel>
+</rss>
