@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ with .Params.lecturedate }}
+	<small>{{ . }}</small>
+{{ end }}
+<br/><br/>
+{{ .Content }}
+
+<br />
+{{ with .Params.resource }}
+	<a href="{{ . }}" target="_blank">Resources</a>
+{{ end }}
+
+{{ template "_internal/disqus.html" . }}
+{{ end }}

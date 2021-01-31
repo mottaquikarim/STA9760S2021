@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+🎉🎈🎂🍾🎊🍻💃
+<br />
+<br />
+In this course, we will examine some practical tools that are currently the industry standard for big data processing and analysis. In particular, we will be levering the Amazon Web Services (AWS) platform for our cloud computation requirements.
+
+<br/>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 20 (sort .Data.Pages ".Params.lecture" "asc" (where .Pages ".Params.private" "!=" true))}}
+		{{ partial "post_item.html" . }}    
+    {{ end }}
+{{ end }}
+</div>
+
+
+{{ end }}

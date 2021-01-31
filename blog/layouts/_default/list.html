@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<h1>{{ .Page.Title }}</h1>
+<br/>
+{{ .Content }}
+
+<div class="posts-list">
+{{ range sort .Data.Pages "Date" "desc" }}
+    {{ partial "post_item.html" . }}    
+{{ end }}
+</div>
+
+{{ end }}

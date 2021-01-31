@@ -1,0 +1,28 @@
+baseURL = "https://mottaquikarim.github.io/"
+title = "STA9760S2021"
+theme = "console"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Class homepage for Big Data Technologies Spring 2021"
+  copyright = "Copyright © 2021 Taq Karim"
+  dark = "on"
+  highlight = true
+  author = "Taq Karim"
+
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  [[params.navlinks]]
+  name = "Important Links"
+  url = "important-links/"
+
+[permalinks]
+  posts = "/posts/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true

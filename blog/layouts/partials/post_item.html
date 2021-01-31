@@ -1,0 +1,16 @@
+<div class="post">
+    <p>
+        <div class="date">
+        	{{ .Params.lecturedate  }}
+        </div>
+        <small>LECTURE {{ .Params.lecture }}</small>
+        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+        {{ .Summary }}
+
+        {{ if isset .Params "resource" }}
+            <br />
+            <br />
+            <a href="{{ .Params.resource }}" target="_blank">Resources</a>
+        {{ end }}
+    </p>
+</div>
