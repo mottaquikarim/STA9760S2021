@@ -49,16 +49,6 @@ In this class, we will examine how all the concepts covered in this course can b
     </item>
     
     <item>
-      <title>Course Intro and Working with the Command Line</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/course-intro-and-working-with-the-command-line/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/course-intro-and-working-with-the-command-line/</guid>
-      <description>In this lecture, we will review Apache Spark, set it up on EMR and then perform some exploratory data analysis with python, jupyter notebooks and S3 on AWS EMR.
-Project 2 Assignment (will require interacting with EMR to run Spark jobs)</description>
-    </item>
-    
-    <item>
       <title>Effectively Writing Lambda Functions</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/effectively-writing-lambda-functions/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
@@ -102,6 +92,16 @@ Project 1 Assignment (will require loading up an Elasticsearch instance and perf
       
       <guid>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark/</guid>
       <description>In this lecture we will discuss Apache Spark and how Spark jobs can also be run in AWS EMR.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Apache Spark II</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark-ii/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark-ii/</guid>
+      <description>In this lecture, we will review Apache Spark, set it up on EMR and then perform some exploratory data analysis with python, jupyter notebooks and S3 on AWS EMR.
+Project 2 Assignment (will require interacting with EMR to run Spark jobs)</description>
     </item>
     
     <item>
