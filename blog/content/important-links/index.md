@@ -5,6 +5,10 @@ date: 2021-01-09T06:35:04Z
 
 Please find important links and resources related to class linked here.
 
+## [Slack](http://sta9760s2021.slack.com/)
+
+This is our class slack. You will only be able to access if you registered from the invite link I sent at the beginning of the semester.
+
 ## [Zoom Meeting]( https://baruch.zoom.us/j/89557953690)
 
 This is our class lecture zoom meeting. Please join on Tuesdays at 6:05pm.
