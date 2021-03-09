@@ -4,6 +4,7 @@ date: 2020-01-30T23:43:38Z
 lecturedate: "MAR 09"
 lecture: "06"
 description: ""
+"resource": "https://drive.google.com/drive/folders/1QpKg6B2YPKGvDHvudkVI6H5MlwkGiFs2"
 private: true
 ---
 
