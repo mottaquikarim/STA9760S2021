@@ -49,6 +49,16 @@ In this class, we will examine how all the concepts covered in this course can b
     </item>
     
     <item>
+      <title>Containerization and Docker</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/containerization-and-docker/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/containerization-and-docker/</guid>
+      <description>~In this class, we discuss some more advanced python topics and how it relates to data processing. You must work through Python Essentials and it is recommended that you at least skim through Python Basics.~
+The resource link has the correct class content. We are covering containerization today.</description>
+    </item>
+    
+    <item>
       <title>Course Intro and Working with the Command Line</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/course-intro-and-working-with-the-command-line/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
@@ -138,16 +148,6 @@ Project 2 Assignment (will require interacting with EMR to run Spark jobs)</desc
       
       <guid>https://mottaquikarim.github.io/STA9760S2021/posts/prestodb-and-aws-athena/</guid>
       <description>In this lecture, we will discuss how PrestoDb can query and process very large datasets in the cloud. We will also discuss Athena + Glue, which are AWS solutions for interacting with a managed PrestoDb instance.</description>
-    </item>
-    
-    <item>
-      <title>Python Scripting</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/python-scripting/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/python-scripting/</guid>
-      <description>~In this class, we discuss some more advanced python topics and how it relates to data processing. You must work through Python Essentials and it is recommended that you at least skim through Python Basics.~
-The resource link has the correct class content. We are covering containerization today.</description>
     </item>
     
     <item>
