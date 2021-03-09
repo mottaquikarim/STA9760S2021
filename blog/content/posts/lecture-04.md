@@ -1,5 +1,5 @@
 ---
-title: "Interacting with Elasticsearch and Kibana"
+title: "Containerization and Docker + Python Scripting"
 date: 2020-01-30T23:43:38Z
 lecturedate: "Feb 23"
 lecture: "04"
