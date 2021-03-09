@@ -86,15 +86,6 @@ Project 1 Assignment (will require loading up an Elasticsearch instance and perf
     </item>
     
     <item>
-      <title>Introduction to Apache Spark</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark/</guid>
-      <description>In this lecture we will discuss Apache Spark and how Spark jobs can also be run in AWS EMR.</description>
-    </item>
-    
-    <item>
       <title>Introduction to Apache Spark II</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-apache-spark-ii/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
@@ -111,6 +102,15 @@ Project 2 Assignment (will require interacting with EMR to run Spark jobs)</desc
       
       <guid>https://mottaquikarim.github.io/STA9760S2021/posts/introduction-to-aws-lambda/</guid>
       <description>In this lecture, we will discuss how AWS Lambda and the concept of “serverless functions” for managing data asynchronously. We will delve into how this concept can be used to create “infinitely” scalable processors for large data and in particular, streaming data.</description>
+    </item>
+    
+    <item>
+      <title>MIDTERM</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/midterm/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/midterm/</guid>
+      <description>The purpose of this exam is to ensure everyone now has a solid and equal footing on python and working on AWS EC2 command line.</description>
     </item>
     
     <item>
