@@ -1,10 +1,13 @@
 ---
-title: "Midterm"
+title: "Elasticsearch & Kibana"
 date: 2020-01-30T23:43:38Z
 lecturedate: "MAR 02"
 lecture: "05"
 description: ""
+"resource": "https://drive.google.com/drive/folders/1BGTDJjOQluxOyTHt7Tg9sxFMDW1SFabc"
 private: true
 ---
 
-The purpose of this exam is to ensure everyone now has a solid and equal footing on python and working on AWS EC2 command line.
+In this lecture, we will discuss how Elasticsearch / Apache Lucene can be used to ingest large quantities of data for analysis via free text search. We will dive into the various search capabilities of elasticsearch and provision an instance via AWS.
+
+Project 1 Assignment (will require loading up an Elasticsearch instance and performing analysis on it with Kibana)
