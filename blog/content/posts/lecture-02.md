@@ -1,5 +1,5 @@
 ---
-title: "Software Packaging and Management"
+title: "AWS EC2 and Working with the Command Line"
 date: 2020-01-30T23:43:38Z
 lecturedate: "FEB 09"
 lecture: "02"
