@@ -8,6 +8,15 @@
     <language>en-US</language>
     <lastBuildDate>Thu, 30 Jan 2020 23:43:38 +0000</lastBuildDate><atom:link href="https://mottaquikarim.github.io/STA9760S2021/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AWS EC2 and Working with the Command Line</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/aws-ec2-and-working-with-the-command-line/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/aws-ec2-and-working-with-the-command-line/</guid>
+      <description>In this class, we will discuss virtualization, containerization and their application to AWS, EC2, and in general, infrastructure provisioning. The main topic for this lecture will be docker and interacting with docker.</description>
+    </item>
+    
+    <item>
       <title>Case Study: Building a Programmatic Ad Exchange</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/case-study-building-a-programmatic-ad-exchange/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
@@ -126,15 +135,6 @@ Project 2 Assignment (will require interacting with EMR to run Spark jobs)</desc
       <guid>https://mottaquikarim.github.io/STA9760S2021/posts/python-scripting/</guid>
       <description>~In this class, we discuss some more advanced python topics and how it relates to data processing. You must work through Python Essentials and it is recommended that you at least skim through Python Basics.~
 The resource link has the correct class content. We are covering containerization today.</description>
-    </item>
-    
-    <item>
-      <title>Software Packaging and Management</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/software-packaging-and-management/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/software-packaging-and-management/</guid>
-      <description>In this class, we will discuss virtualization, containerization and their application to AWS, EC2, and in general, infrastructure provisioning. The main topic for this lecture will be docker and interacting with docker.</description>
     </item>
     
     <item>
