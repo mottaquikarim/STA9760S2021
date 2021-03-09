@@ -46,6 +46,16 @@ The resource link has the correct class content. We are covering containerizatio
     </item>
     
     <item>
+      <title>Containerization and Docker &#43; Python Scripting</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/containerization-and-docker-python-scripting/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/containerization-and-docker-python-scripting/</guid>
+      <description>In this lecture, we will discuss how Elasticsearch / Apache Lucene can be used to ingest large quantities of data for analysis via free text search. We will dive into the various search capabilities of elasticsearch and provision an instance via AWS.
+Project 1 Assignment (will require loading up an Elasticsearch instance and performing analysis on it with Kibana)</description>
+    </item>
+    
+    <item>
       <title>Course Intro and Working with the Command Line</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/course-intro-and-working-with-the-command-line/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
@@ -64,22 +74,22 @@ The resource link has the correct class content. We are covering containerizatio
     </item>
     
     <item>
+      <title>Elasticsearch &amp; Kibana</title>
+      <link>https://mottaquikarim.github.io/STA9760S2021/posts/elasticsearch-kibana/</link>
+      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
+      
+      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/elasticsearch-kibana/</guid>
+      <description>In this lecture, we will discuss how Elasticsearch / Apache Lucene can be used to ingest large quantities of data for analysis via free text search. We will dive into the various search capabilities of elasticsearch and provision an instance via AWS.
+Project 1 Assignment (will require loading up an Elasticsearch instance and performing analysis on it with Kibana)</description>
+    </item>
+    
+    <item>
       <title>Final</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/final/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
       
       <guid>https://mottaquikarim.github.io/STA9760S2021/posts/final/</guid>
       <description>Final exam, NON cumulative - only contains concepts covered after midterm</description>
-    </item>
-    
-    <item>
-      <title>Interacting with Elasticsearch and Kibana</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/interacting-with-elasticsearch-and-kibana/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/interacting-with-elasticsearch-and-kibana/</guid>
-      <description>In this lecture, we will discuss how Elasticsearch / Apache Lucene can be used to ingest large quantities of data for analysis via free text search. We will dive into the various search capabilities of elasticsearch and provision an instance via AWS.
-Project 1 Assignment (will require loading up an Elasticsearch instance and performing analysis on it with Kibana)</description>
     </item>
     
     <item>
@@ -112,15 +122,6 @@ Project 2 Assignment (will require interacting with EMR to run Spark jobs)</desc
     
     <item>
       <title>MIDTERM</title>
-      <link>https://mottaquikarim.github.io/STA9760S2021/posts/midterm/</link>
-      <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
-      
-      <guid>https://mottaquikarim.github.io/STA9760S2021/posts/midterm/</guid>
-      <description>The purpose of this exam is to ensure everyone now has a solid and equal footing on python and working on AWS EC2 command line.</description>
-    </item>
-    
-    <item>
-      <title>Midterm</title>
       <link>https://mottaquikarim.github.io/STA9760S2021/posts/midterm/</link>
       <pubDate>Thu, 30 Jan 2020 23:43:38 +0000</pubDate>
       
